@@ -1,2 +1,3 @@
-# The_Sage_Shailesh_Studio
-A portfolio website 
+# Shailesh Mishra portfolio website
+
+Shailesh Mishra portfolio website 
