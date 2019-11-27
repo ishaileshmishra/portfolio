@@ -553,7 +553,7 @@ h1, h2, h3, h4, h5, h6 {
     min-height: 600px;
     height: calc(80vh); }
   .site-blocks-cover h1 {
-    font-size: 8rem;
+    font-size: 80px;
     font-weight: 900;
     line-height: 1; }
     @media (max-width: 991.98px) {
@@ -878,3 +878,6 @@ h1, h2, h3, h4, h5, h6 {
     /******Custom CSS********/
     .about-sec { text-align: center;}
     .about-sec img { display: block; margin: 0 auto; width: 400px; border-radius: 50%; border: 3px solid rgb(129, 128, 128)}
+    .my-bio-sec .intro-me{ font-size: 28px; font-weight: 100;}
+    .my-bio-sec h6 { color: #404040; margin: 20px 0; font-size: 20px; font-weight: 300;}
+    .my-bio-sec .btn{ margin: 30px 0; }
